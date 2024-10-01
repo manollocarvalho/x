@@ -47,12 +47,6 @@ header {
     display: flex;    
 }
 
-#card-tweet #avatar-user{
-    width: 80px; height: 80px; margin: 8px   
-}
-
-
-
 #tweet-name {
     font-size: 16px;
     color: #000;
